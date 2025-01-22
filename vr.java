@@ -4,4 +4,7 @@ class vr
 	{
 		System.out.println("Good Job!!");
 	}
+
+public void display{
+	System.out.println("Hello");
 }
